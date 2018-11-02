@@ -1,0 +1,11 @@
+更新日志:
+version -- 1.02
+1 - 添加了Message()方法
+2 - 添加了State()方法
+
+version -- 1.03
+1 - 更改了返回信息的处理方式
+
+version -- 1.04
+1 - 添加了Message()的save与lord方法
+2 - 把图片素材单独整理在了material文件夹
